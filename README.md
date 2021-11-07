@@ -1,5 +1,5 @@
 ## Oiii! Me chamo Márcio Henrique
-## Sou Estudante de Computação 🖥️
+## Sou Estudante de Engenharia de Computação 🖥️
  <div>
   <a href="https://github.com/marcio-henriquemh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcio-henriquemh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
