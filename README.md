@@ -22,8 +22,7 @@ Tenho projetos envolvendo **Análise de Dados**, **Algoritmos de Machine Learnin
 - 🕸️ **Teoria dos Grafos**
 - 🧠 **Teoria da Computação**
 - 📊 **Análise de Dados**
-- 🤖 **Algoritmos de Machine Learning**
-- 🤖 **Deep Learning**
+- 🤖 **Algoritmos de Machine Learning e Deep Learning**
 
 ---
 
