@@ -67,8 +67,8 @@ Desenvolvo um projeto de **aulas sobre Projeto e Análise de Algoritmos**, abord
 - Conexões com análise de dados e aprendizado de máquina
 
 📺 Canal no YouTube:  
-👉 **Universo Científico**  
-https://youtube.com/@universocientifico9091
+👉 **Márcio Henrique | Algoritmos, Teoria e Engenharia**  
+https://www.youtube.com/@marciohenrique.algoritmos
 
 ---
 
